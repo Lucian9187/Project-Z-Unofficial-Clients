@@ -13,4 +13,3 @@
 * [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 
 * [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
-* 
